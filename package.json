@@ -9,7 +9,9 @@
     "cra-template": "1.2.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+    "react-router-dom": "^7.1.5",
     "react-scripts": "5.0.1",
+    "styled-components": "^6.1.14",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
